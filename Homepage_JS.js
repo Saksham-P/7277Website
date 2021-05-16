@@ -94,7 +94,7 @@ function myFunction() {
 }
 
 var image = document.getElementById("image");
-var images = new Array("Images/Back_Dark.jpg", "Images/Back_Dark.jpg", "Images/7277 Robot.jpg", "Images/Dab.jpg");
+var images = new Array("../Images/Back_Dark.jpg", "../Images/Back_Dark.jpg", "../Images/7277 Robot.jpg", "../Images/Dab.jpg");
 var img = document.getElementById("img");
 var img2 = document.getElementById("img2");
 var imgl = document.getElementById("imgl");
