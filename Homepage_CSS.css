@@ -396,7 +396,7 @@ body {
 }
 
 #champright {
-	background-image: url("../Images/Champs.jpg");
+	background-image: url("Images/Champs.jpg");
 	background-size: contain;
 	background-repeat: no-repeat;
 	z-index: 1;
